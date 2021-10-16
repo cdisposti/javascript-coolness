@@ -20,4 +20,6 @@ const howOld = (age, year) => {
 
 
 // Once your function is written, write function calls to test your code!
+console.log(howOld(44, 2024));
 console.log(howOld(44, 1970));
+console.log(howOld(44, 1990));
